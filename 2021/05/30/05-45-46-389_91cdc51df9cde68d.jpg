@@ -1,0 +1,1484 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGZDN33');</script>
+<!-- End Google Tag Manager -->	
+	
+<!-- ここからOGP -->
+<meta property="og:type" content="blog">
+<meta property="og:title" content="【信頼禁物】Venusの利用リスクをまとめます。｜イケハヤ大学【ブログ版】"> 
+<meta property="og:url" content="https://www.ikedahayato.com/venus-risk/"> 
+<meta property="og:description" content="イケハヤです。 BSCにおける最大のレンディングサービス「Venus」のリスクを解説します。 これ割とみなさん思考停止で"> 
+<meta property="og:image" content="https://www.ikedahayato.com/wp-content/uploads/2021/05/dc8b62d8e37807c0e529753454030f63.png">
+<meta property="og:site_name" content="イケハヤ大学【ブログ版】">
+<meta property="fb:admins" content="">
+<meta name="twitter:card" content="summary">
+<!-- ここまでOGP --> 
+
+<meta name="description" itemprop="description" content="イケハヤです。 BSCにおける最大のレンディングサービス「Venus」のリスクを解説します。 これ割とみなさん思考停止で" >
+
+<title>【信頼禁物】Venusの利用リスクをまとめます。 | イケハヤ大学【ブログ版】</title>
+
+<!-- All In One SEO Pack 3.7.1[1424,1468] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.ikedahayato.com/#organization","url":"https://www.ikedahayato.com/","name":"イケハヤ大学【ブログ版】","sameAs":[]},{"@type":"WebSite","@id":"https://www.ikedahayato.com/#website","url":"https://www.ikedahayato.com/","name":"イケハヤ大学【ブログ版】","publisher":{"@id":"https://www.ikedahayato.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.ikedahayato.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.ikedahayato.com/venus-risk/#webpage","url":"https://www.ikedahayato.com/venus-risk/","inLanguage":"ja","name":"【信頼禁物】Venusの利用リスクをまとめます。","isPartOf":{"@id":"https://www.ikedahayato.com/#website"},"breadcrumb":{"@id":"https://www.ikedahayato.com/venus-risk/#breadcrumblist"},"image":{"@type":"ImageObject","@id":"https://www.ikedahayato.com/venus-risk/#primaryimage","url":"https://www.ikedahayato.com/wp-content/uploads/2021/05/dc8b62d8e37807c0e529753454030f63.png","width":2812,"height":1526},"primaryImageOfPage":{"@id":"https://www.ikedahayato.com/venus-risk/#primaryimage"},"datePublished":"2021-05-17T03:03:26+00:00","dateModified":"2021-05-19T03:08:55+00:00"},{"@type":"Article","@id":"https://www.ikedahayato.com/venus-risk/#article","isPartOf":{"@id":"https://www.ikedahayato.com/venus-risk/#webpage"},"author":{"@id":"https://www.ikedahayato.com/author/ihayato/#author"},"headline":"【信頼禁物】Venusの利用リスクをまとめます。","datePublished":"2021-05-17T03:03:26+00:00","dateModified":"2021-05-19T03:08:55+00:00","commentCount":0,"mainEntityOfPage":{"@id":"https://www.ikedahayato.com/venus-risk/#webpage"},"publisher":{"@id":"https://www.ikedahayato.com/#organization"},"articleSection":"未分類","image":{"@type":"ImageObject","@id":"https://www.ikedahayato.com/venus-risk/#primaryimage","url":"https://www.ikedahayato.com/wp-content/uploads/2021/05/dc8b62d8e37807c0e529753454030f63.png","width":2812,"height":1526}},{"@type":"Person","@id":"https://www.ikedahayato.com/author/ihayato/#author","name":"ihayato","sameAs":[],"image":{"@type":"ImageObject","@id":"https://www.ikedahayato.com/#personlogo","url":"https://secure.gravatar.com/avatar/195f3dc5b779e1e65e244e9eab499ddc?s=96&d=mm&r=g","width":96,"height":96,"caption":"ihayato"}},{"@type":"BreadcrumbList","@id":"https://www.ikedahayato.com/venus-risk/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.ikedahayato.com/","url":"https://www.ikedahayato.com/","name":"イケハヤ大学【ブログ版】"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.ikedahayato.com/venus-risk/","url":"https://www.ikedahayato.com/venus-risk/","name":"【信頼禁物】Venusの利用リスクをまとめます。"}}]}]}</script>
+<link rel="canonical" href="https://www.ikedahayato.com/venus-risk/" />
+<!-- All In One SEO Pack -->
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="イケハヤ大学【ブログ版】 &raquo; フィード" href="https://www.ikedahayato.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="イケハヤ大学【ブログ版】 &raquo; コメントフィード" href="https://www.ikedahayato.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="イケハヤ大学【ブログ版】 &raquo; 【信頼禁物】Venusの利用リスクをまとめます。 のコメントのフィード" href="https://www.ikedahayato.com/venus-risk/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ikedahayato.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.11"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.ikedahayato.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.11' type='text/css' media='all' />
+<link rel='stylesheet' id='stripe-handler-ng-style-css'  href='https://www.ikedahayato.com/wp-content/plugins/stripe-payments/public/assets/css/public.css?ver=2.0.33' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.ikedahayato.com/wp-content/themes/jin/style.css?ver=5.2.11' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-css'  href='https://www.ikedahayato.com/wp-content/themes/jin-child/style.css?ver=5.2.11' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-style-css'  href='https://use.fontawesome.com/releases/v5.6.3/css/all.css?ver=5.2.11' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-style-css'  href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.7/css/swiper.min.css?ver=5.2.11' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://www.ikedahayato.com/wp-json/' />
+<link rel='shortlink' href='https://www.ikedahayato.com/?p=65156' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ikedahayato.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ikedahayato.com%2Fvenus-risk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ikedahayato.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ikedahayato.com%2Fvenus-risk%2F&#038;format=xml" />
+	<style type="text/css">
+		#wrapper{
+							background-color: #fff;
+				background-image: url();
+					}
+		.related-entry-headline-text span:before,
+		#comment-title span:before,
+		#reply-title span:before{
+			background-color: #cccccc;
+			border-color: #cccccc!important;
+		}
+		
+		#breadcrumb:after,
+		#page-top a{	
+			background-color: #0a2844;
+		}
+				footer{
+			background-color: #0a2844;
+		}
+		.footer-inner a,
+		#copyright,
+		#copyright-center{
+			border-color: #fff!important;
+			color: #fff!important;
+		}
+		#footer-widget-area
+		{
+			border-color: #fff!important;
+		}
+				.page-top-footer a{
+			color: #0a2844!important;
+		}
+				#breadcrumb ul li,
+		#breadcrumb ul li a{
+			color: #0a2844!important;
+		}
+		
+		body,
+		a,
+		a:link,
+		a:visited,
+		.my-profile,
+		.widgettitle,
+		.tabBtn-mag label{
+			color: #080000;
+		}
+		a:hover{
+			color: #003fa5;
+		}
+						.widget_nav_menu ul > li > a:before,
+		.widget_categories ul > li > a:before,
+		.widget_pages ul > li > a:before,
+		.widget_recent_entries ul > li > a:before,
+		.widget_archive ul > li > a:before,
+		.widget_archive form:after,
+		.widget_categories form:after,
+		.widget_nav_menu ul > li > ul.sub-menu > li > a:before,
+		.widget_categories ul > li > .children > li > a:before,
+		.widget_pages ul > li > .children > li > a:before,
+		.widget_nav_menu ul > li > ul.sub-menu > li > ul.sub-menu li > a:before,
+		.widget_categories ul > li > .children > li > .children li > a:before,
+		.widget_pages ul > li > .children > li > .children li > a:before{
+			color: #cccccc;
+		}
+		.widget_nav_menu ul .sub-menu .sub-menu li a:before{
+			background-color: #080000!important;
+		}
+		footer .footer-widget,
+		footer .footer-widget a,
+		footer .footer-widget ul li,
+		.footer-widget.widget_nav_menu ul > li > a:before,
+		.footer-widget.widget_categories ul > li > a:before,
+		.footer-widget.widget_recent_entries ul > li > a:before,
+		.footer-widget.widget_pages ul > li > a:before,
+		.footer-widget.widget_archive ul > li > a:before,
+		footer .widget_tag_cloud .tagcloud a:before{
+			color: #fff!important;
+			border-color: #fff!important;
+		}
+		footer .footer-widget .widgettitle{
+			color: #fff!important;
+			border-color: #666666!important;
+		}
+		footer .widget_nav_menu ul .children .children li a:before,
+		footer .widget_categories ul .children .children li a:before,
+		footer .widget_nav_menu ul .sub-menu .sub-menu li a:before{
+			background-color: #fff!important;
+		}
+		#drawernav a:hover,
+		.post-list-title,
+		#prev-next p,
+		#toc_container .toc_list li a{
+			color: #080000!important;
+		}
+		
+		#header-box{
+			background-color: #ffffff;
+		}
+						@media (min-width: 768px) {
+		#header-box .header-box10-bg:before,
+		#header-box .header-box11-bg:before{
+			border-radius: 2px;
+		}
+		}
+										@media (min-width: 768px) {
+			.top-image-meta{
+				margin-top: calc(0px - 30px);
+			}
+		}
+		@media (min-width: 1200px) {
+			.top-image-meta{
+				margin-top: calc(0px);
+			}
+		}
+				.pickup-contents:before{
+			background-color: #ffffff!important;
+		}
+		
+		.main-image-text{
+			color: #555;
+		}
+		.main-image-text-sub{
+			color: #555;
+		}
+		
+						#site-info{
+			padding-top: 15px!important;
+			padding-bottom: 15px!important;
+		}
+				
+		#site-info span a{
+			color: #000000!important;
+		}
+		
+				#headmenu .headsns .line a svg{
+			fill: #cccccc!important;
+		}
+		#headmenu .headsns a,
+		#headmenu{
+			color: #cccccc!important;
+			border-color:#cccccc!important;
+		}
+						.profile-follow .line-sns a svg{
+			fill: #cccccc!important;
+		}
+		.profile-follow .line-sns a:hover svg{
+			fill: #666666!important;
+		}
+		.profile-follow a{
+			color: #cccccc!important;
+			border-color:#cccccc!important;
+		}
+		.profile-follow a:hover,
+		#headmenu .headsns a:hover{
+			color:#666666!important;
+			border-color:#666666!important;
+		}
+				.search-box:hover{
+			color:#666666!important;
+			border-color:#666666!important;
+		}
+				#header #headmenu .headsns .line a:hover svg{
+			fill:#666666!important;
+		}
+		.cps-icon-bar,
+		#navtoggle:checked + .sp-menu-open .cps-icon-bar{
+			background-color: #000000;
+		}
+		#nav-container{
+			background-color: #fff;
+		}
+		.menu-box .menu-item svg{
+			fill:#000000;
+		}
+		#drawernav ul.menu-box > li > a,
+		#drawernav2 ul.menu-box > li > a,
+		#drawernav3 ul.menu-box > li > a,
+		#drawernav4 ul.menu-box > li > a,
+		#drawernav5 ul.menu-box > li > a,
+		#drawernav ul.menu-box > li.menu-item-has-children:after,
+		#drawernav2 ul.menu-box > li.menu-item-has-children:after,
+		#drawernav3 ul.menu-box > li.menu-item-has-children:after,
+		#drawernav4 ul.menu-box > li.menu-item-has-children:after,
+		#drawernav5 ul.menu-box > li.menu-item-has-children:after{
+			color: #000000!important;
+		}
+		#drawernav ul.menu-box li a,
+		#drawernav2 ul.menu-box li a,
+		#drawernav3 ul.menu-box li a,
+		#drawernav4 ul.menu-box li a,
+		#drawernav5 ul.menu-box li a{
+			font-size: 14px!important;
+		}
+		#drawernav3 ul.menu-box > li{
+			color: #080000!important;
+		}
+		#drawernav4 .menu-box > .menu-item > a:after,
+		#drawernav3 .menu-box > .menu-item > a:after,
+		#drawernav .menu-box > .menu-item > a:after{
+			background-color: #000000!important;
+		}
+		#drawernav2 .menu-box > .menu-item:hover,
+		#drawernav5 .menu-box > .menu-item:hover{
+			border-top-color: #cccccc!important;
+		}
+				.cps-info-bar a{
+			background-color: #ffcd44!important;
+		}
+				@media (min-width: 768px) {
+			#main-contents-one .post-list-mag .post-list-item{
+				width: 32%;
+			}
+			#main-contents-one .post-list-mag .post-list-item:not(:nth-child(3n)){
+				margin-right: 2%;
+			}
+			.tabBtn-mag{
+				width: 85%;
+				margin-bottom: 40px;
+			}
+			.tabBtn-mag label{
+				padding: 10px 20px;
+			}
+		}
+				@media (min-width: 768px) {
+			#tab-1:checked ~ .tabBtn-mag li [for="tab-1"]:after,
+			#tab-2:checked ~ .tabBtn-mag li [for="tab-2"]:after,
+			#tab-3:checked ~ .tabBtn-mag li [for="tab-3"]:after,
+			#tab-4:checked ~ .tabBtn-mag li [for="tab-4"]:after{
+				border-top-color: #cccccc!important;
+			}
+			.tabBtn-mag label{
+				border-bottom-color: #cccccc!important;
+			}
+		}
+		#tab-1:checked ~ .tabBtn-mag li [for="tab-1"],
+		#tab-2:checked ~ .tabBtn-mag li [for="tab-2"],
+		#tab-3:checked ~ .tabBtn-mag li [for="tab-3"],
+		#tab-4:checked ~ .tabBtn-mag li [for="tab-4"],
+		#prev-next a.next:after,
+		#prev-next a.prev:after,
+		.more-cat-button a:hover span:before{
+			background-color: #cccccc!important;
+		}
+		
+
+		.swiper-slide .post-list-cat,
+		.post-list-mag .post-list-cat,
+		.post-list-mag3col .post-list-cat,
+		.post-list-mag-sp1col .post-list-cat,
+		.swiper-pagination-bullet-active,
+		.pickup-cat,
+		.post-list .post-list-cat,
+		#breadcrumb .bcHome a:hover span:before,
+		.popular-item:nth-child(1) .pop-num,
+		.popular-item:nth-child(2) .pop-num,
+		.popular-item:nth-child(3) .pop-num{
+			background-color: #666666!important;
+		}
+		.sidebar-btn a,
+		.profile-sns-menu{
+			background-color: #666666!important;
+		}
+		.sp-sns-menu a,
+		.pickup-contents-box a:hover .pickup-title{
+			border-color: #cccccc!important;
+			color: #cccccc!important;
+		}
+				.pro-line svg{
+			fill: #cccccc!important;
+		}
+		.cps-post-cat a,
+		.meta-cat,
+		.popular-cat{
+			background-color: #666666!important;
+			border-color: #666666!important;
+		}
+		.tagicon,
+		.tag-box a,
+		#toc_container .toc_list > li,
+		#toc_container .toc_title{
+			color: #cccccc!important;
+		}
+		.widget_tag_cloud a::before{
+			color: #080000!important;
+		}
+		.tag-box a,
+		#toc_container:before{
+			border-color: #cccccc!important;
+		}
+		.cps-post-cat a:hover{
+			color: #003fa5!important;
+		}
+		.pagination li:not([class*="current"]) a:hover,
+		.widget_tag_cloud a:hover{
+			background-color: #cccccc!important;
+		}
+		.pagination li:not([class*="current"]) a:hover{
+			opacity: 0.5!important;
+		}
+		.pagination li.current a{
+			background-color: #cccccc!important;
+			border-color: #cccccc!important;
+		}
+		.nextpage a:hover span {
+			color: #cccccc!important;
+			border-color: #cccccc!important;
+		}
+		.cta-content:before{
+			background-color: #e3efef!important;
+		}
+		.cta-text,
+		.info-title{
+			color: #383838!important;
+		}
+		#footer-widget-area.footer_style1 .widgettitle{
+			border-color: #666666!important;
+		}
+		.sidebar_style1 .widgettitle,
+		.sidebar_style5 .widgettitle{
+			border-color: #cccccc!important;
+		}
+		.sidebar_style2 .widgettitle,
+		.sidebar_style4 .widgettitle,
+		.sidebar_style6 .widgettitle,
+		#home-bottom-widget .widgettitle,
+		#home-top-widget .widgettitle,
+		#post-bottom-widget .widgettitle,
+		#post-top-widget .widgettitle{
+			background-color: #cccccc!important;
+		}
+		#home-bottom-widget .widget_search .search-box input[type="submit"],
+		#home-top-widget .widget_search .search-box input[type="submit"],
+		#post-bottom-widget .widget_search .search-box input[type="submit"],
+		#post-top-widget .widget_search .search-box input[type="submit"]{
+			background-color: #666666!important;
+		}
+		
+		.tn-logo-size{
+			font-size: 55%!important;
+		}
+		@media (min-width: 768px) {
+		.tn-logo-size img{
+			width: calc(55%*2.2)!important;
+		}
+		}
+		@media (min-width: 1200px) {
+		.tn-logo-size img{
+			width: 55%!important;
+		}
+		}
+		.sp-logo-size{
+			font-size: 100%!important;
+		}
+		.sp-logo-size img{
+			width: 100%!important;
+		}
+				.cps-post-main ul > li:before,
+		.cps-post-main ol > li:before{
+			background-color: #666666!important;
+		}
+		.profile-card .profile-title{
+			background-color: #cccccc!important;
+		}
+		.profile-card{
+			border-color: #cccccc!important;
+		}
+		.cps-post-main a{
+			color:#2355a7;
+		}
+		.cps-post-main .marker{
+			background: -webkit-linear-gradient( transparent 60%, #ffcedb 0% ) ;
+			background: linear-gradient( transparent 60%, #ffcedb 0% ) ;
+		}
+		.cps-post-main .marker2{
+			background: -webkit-linear-gradient( transparent 60%, #a9eaf2 0% ) ;
+			background: linear-gradient( transparent 60%, #a9eaf2 0% ) ;
+		}
+		
+		
+		.simple-box1{
+			border-color:#ef9b9b!important;
+		}
+		.simple-box2{
+			border-color:#f2bf7d!important;
+		}
+		.simple-box3{
+			border-color:#b5e28a!important;
+		}
+		.simple-box4{
+			border-color:#7badd8!important;
+		}
+		.simple-box4:before{
+			background-color: #7badd8;
+		}
+		.simple-box5{
+			border-color:#e896c7!important;
+		}
+		.simple-box5:before{
+			background-color: #e896c7;
+		}
+		.simple-box6{
+			background-color:#fffdef!important;
+		}
+		.simple-box7{
+			border-color:#def1f9!important;
+		}
+		.simple-box7:before{
+			background-color:#def1f9!important;
+		}
+		.simple-box8{
+			border-color:#96ddc1!important;
+		}
+		.simple-box8:before{
+			background-color:#96ddc1!important;
+		}
+		.simple-box9:before{
+			background-color:#e1c0e8!important;
+		}
+				.simple-box9:after{
+			border-color:#e1c0e8 #e1c0e8 #fff #fff!important;
+		}
+				
+		.kaisetsu-box1:before,
+		.kaisetsu-box1-title{
+			background-color:#ffb49e!important;
+		}
+		.kaisetsu-box2{
+			border-color:#89c2f4!important;
+		}
+		.kaisetsu-box2-title{
+			background-color:#89c2f4!important;
+		}
+		.kaisetsu-box4{
+			border-color:#ea91a9!important;
+		}
+		.kaisetsu-box4-title{
+			background-color:#ea91a9!important;
+		}
+		.kaisetsu-box5:before{
+			background-color:#57b3ba!important;
+		}
+		.kaisetsu-box5-title{
+			background-color:#57b3ba!important;
+		}
+		
+		.concept-box1{
+			border-color:#85db8f!important;
+		}
+		.concept-box1:after{
+			background-color:#85db8f!important;
+		}
+		.concept-box1:before{
+			content:"ポイント"!important;
+			color:#85db8f!important;
+		}
+		.concept-box2{
+			border-color:#f7cf6a!important;
+		}
+		.concept-box2:after{
+			background-color:#f7cf6a!important;
+		}
+		.concept-box2:before{
+			content:"注意点"!important;
+			color:#f7cf6a!important;
+		}
+		.concept-box3{
+			border-color:#86cee8!important;
+		}
+		.concept-box3:after{
+			background-color:#86cee8!important;
+		}
+		.concept-box3:before{
+			content:"良い例"!important;
+			color:#86cee8!important;
+		}
+		.concept-box4{
+			border-color:#ed8989!important;
+		}
+		.concept-box4:after{
+			background-color:#ed8989!important;
+		}
+		.concept-box4:before{
+			content:"悪い例"!important;
+			color:#ed8989!important;
+		}
+		.concept-box5{
+			border-color:#9e9e9e!important;
+		}
+		.concept-box5:after{
+			background-color:#9e9e9e!important;
+		}
+		.concept-box5:before{
+			content:"参考"!important;
+			color:#9e9e9e!important;
+		}
+		.concept-box6{
+			border-color:#8eaced!important;
+		}
+		.concept-box6:after{
+			background-color:#8eaced!important;
+		}
+		.concept-box6:before{
+			content:"メモ"!important;
+			color:#8eaced!important;
+		}
+		
+		.innerlink-box1,
+		.blog-card{
+			border-color:#73bc9b!important;
+		}
+		.innerlink-box1-title{
+			background-color:#73bc9b!important;
+			border-color:#73bc9b!important;
+		}
+		.innerlink-box1:before,
+		.blog-card-hl-box{
+			background-color:#73bc9b!important;
+		}
+				
+		.color-button01 a,
+		.color-button01 a:hover,
+		.color-button01:before{
+			background-color: #008db7!important;
+		}
+		.top-image-btn-color a,
+		.top-image-btn-color a:hover,
+		.top-image-btn-color:before{
+			background-color: #ffcd44!important;
+		}
+		.color-button02 a,
+		.color-button02 a:hover,
+		.color-button02:before{
+			background-color: #d9333f!important;
+		}
+		
+		.color-button01-big a,
+		.color-button01-big a:hover,
+		.color-button01-big:before{
+			background-color: #3296d1!important;
+		}
+		.color-button01-big a,
+		.color-button01-big:before{
+			border-radius: 5px!important;
+		}
+		.color-button01-big a{
+			padding-top: 20px!important;
+			padding-bottom: 20px!important;
+		}
+		
+		.color-button02-big a,
+		.color-button02-big a:hover,
+		.color-button02-big:before{
+			background-color: #83d159!important;
+		}
+		.color-button02-big a,
+		.color-button02-big:before{
+			border-radius: 5px!important;
+		}
+		.color-button02-big a{
+			padding-top: 20px!important;
+			padding-bottom: 20px!important;
+		}
+				.color-button01-big{
+			width: 75%!important;
+		}
+		.color-button02-big{
+			width: 75%!important;
+		}
+				
+		
+					.top-image-btn-color:before,
+			.color-button01:before,
+			.color-button02:before,
+			.color-button01-big:before,
+			.color-button02-big:before{
+				bottom: -1px;
+				left: -1px;
+				width: 100%;
+				height: 100%;
+				border-radius: 6px;
+				box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+				-webkit-transition: all .4s;
+				transition: all .4s;
+			}
+			.top-image-btn-color a:hover,
+			.color-button01 a:hover,
+			.color-button02 a:hover,
+			.color-button01-big a:hover,
+			.color-button02-big a:hover{
+				-webkit-transform: translateY(2px);
+				transform: translateY(2px);
+				-webkit-filter: brightness(0.95);
+				 filter: brightness(0.95);
+			}
+			.top-image-btn-color:hover:before,
+			.color-button01:hover:before,
+			.color-button02:hover:before,
+			.color-button01-big:hover:before,
+			.color-button02-big:hover:before{
+				-webkit-transform: translateY(2px);
+				transform: translateY(2px);
+				box-shadow: none!important;
+			}
+				
+		.h2-style01 h2,
+		.h2-style02 h2:before,
+		.h2-style03 h2,
+		.h2-style04 h2:before,
+		.h2-style05 h2,
+		.h2-style07 h2:before,
+		.h2-style07 h2:after,
+		.h3-style03 h3:before,
+		.h3-style02 h3:before,
+		.h3-style05 h3:before,
+		.h3-style07 h3:before,
+		.h2-style08 h2:after,
+		.h2-style10 h2:before,
+		.h2-style10 h2:after,
+		.h3-style02 h3:after,
+		.h4-style02 h4:before{
+			background-color: #cccccc!important;
+		}
+		.h3-style01 h3,
+		.h3-style04 h3,
+		.h3-style05 h3,
+		.h3-style06 h3,
+		.h4-style01 h4,
+		.h2-style02 h2,
+		.h2-style08 h2,
+		.h2-style08 h2:before,
+		.h2-style09 h2,
+		.h4-style03 h4{
+			border-color: #cccccc!important;
+		}
+		.h2-style05 h2:before{
+			border-top-color: #cccccc!important;
+		}
+		.h2-style06 h2:before,
+		.sidebar_style3 .widgettitle:after{
+			background-image: linear-gradient(
+				-45deg,
+				transparent 25%,
+				#cccccc 25%,
+				#cccccc 50%,
+				transparent 50%,
+				transparent 75%,
+				#cccccc 75%,
+				#cccccc			);
+		}
+				.jin-h2-icons.h2-style02 h2 .jic:before,
+		.jin-h2-icons.h2-style04 h2 .jic:before,
+		.jin-h2-icons.h2-style06 h2 .jic:before,
+		.jin-h2-icons.h2-style07 h2 .jic:before,
+		.jin-h2-icons.h2-style08 h2 .jic:before,
+		.jin-h2-icons.h2-style09 h2 .jic:before,
+		.jin-h2-icons.h2-style10 h2 .jic:before,
+		.jin-h3-icons.h3-style01 h3 .jic:before,
+		.jin-h3-icons.h3-style02 h3 .jic:before,
+		.jin-h3-icons.h3-style03 h3 .jic:before,
+		.jin-h3-icons.h3-style04 h3 .jic:before,
+		.jin-h3-icons.h3-style05 h3 .jic:before,
+		.jin-h3-icons.h3-style06 h3 .jic:before,
+		.jin-h3-icons.h3-style07 h3 .jic:before,
+		.jin-h4-icons.h4-style01 h4 .jic:before,
+		.jin-h4-icons.h4-style02 h4 .jic:before,
+		.jin-h4-icons.h4-style03 h4 .jic:before,
+		.jin-h4-icons.h4-style04 h4 .jic:before{
+			color:#cccccc;
+		}
+		
+		@media all and (-ms-high-contrast:none){
+			*::-ms-backdrop, .color-button01:before,
+			.color-button02:before,
+			.color-button01-big:before,
+			.color-button02-big:before{
+				background-color: #595857!important;
+			}
+		}
+		
+		.jin-lp-h2 h2,
+		.jin-lp-h2 h2{
+			background-color: transparent!important;
+			border-color: transparent!important;
+			color: #080000!important;
+		}
+		.jincolumn-h3style2{
+			border-color:#cccccc!important;
+		}
+		.jinlph2-style1 h2:first-letter{
+			color:#cccccc!important;
+		}
+		.jinlph2-style2 h2,
+		.jinlph2-style3 h2{
+			border-color:#cccccc!important;
+		}
+		.jin-photo-title .jin-fusen1-down,
+		.jin-photo-title .jin-fusen1-even,
+		.jin-photo-title .jin-fusen1-up{
+			border-left-color:#cccccc;
+		}
+		.jin-photo-title .jin-fusen2,
+		.jin-photo-title .jin-fusen3{
+			background-color:#cccccc;
+		}
+		.jin-photo-title .jin-fusen2:before,
+		.jin-photo-title .jin-fusen3:before {
+			border-top-color: #cccccc;
+		}
+		
+		
+	</style>
+<link rel="icon" href="https://www.ikedahayato.com/wp-content/uploads/2020/05/DL3LOz2a_400x400-150x150.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.ikedahayato.com/wp-content/uploads/2020/05/DL3LOz2a_400x400-300x300.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.ikedahayato.com/wp-content/uploads/2020/05/DL3LOz2a_400x400-300x300.jpg" />
+<meta name="msapplication-TileImage" content="https://www.ikedahayato.com/wp-content/uploads/2020/05/DL3LOz2a_400x400-300x300.jpg" />
+
+<!-- START - Open Graph and Twitter Card Tags 2.2.7.2 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="ja_JP"/>
+  <meta property="og:site_name" content="イケハヤ大学【ブログ版】"/>
+  <meta property="og:title" content="【信頼禁物】Venusの利用リスクをまとめます。"/>
+  <meta property="og:url" content="https://www.ikedahayato.com/venus-risk/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="イケハヤです。
+
+
+
+BSCにおける最大のレンディングサービス「Venus」のリスクを解説します。
+
+
+
+これ割とみなさん思考停止でトラストしている気がしますが、けっこう危ないです……。
+
+
+
+
+
+
+
+Venusは仕様変更が激しい。
+
+
+
+なぜVenusに気をつけるべきかというと、かなり仕様変更が激しいんです。
+
+
+
+割と重大な変更を、しれ〜っと実装してきやがるので、利用しているならProposal（Vote）はしっかり読み込まないとダメですね。これもまた説明が適当なのでわかりにくいですが……。
+
+
+
+
+
+
+
+なお、運営・関係者がXVSを大量に握っている（と思われる）関係で、このVoteは実質"/>
+  <meta property="og:image" content="https://www.ikedahayato.com/wp-content/uploads/2021/05/dc8b62d8e37807c0e529753454030f63.png"/>
+  <meta property="og:image:url" content="https://www.ikedahayato.com/wp-content/uploads/2021/05/dc8b62d8e37807c0e529753454030f63.png"/>
+  <meta property="og:image:secure_url" content="https://www.ikedahayato.com/wp-content/uploads/2021/05/dc8b62d8e37807c0e529753454030f63.png"/>
+  <meta property="article:published_time" content="2021-05-17T12:03:26+09:00"/>
+  <meta property="article:modified_time" content="2021-05-19T12:08:55+09:00" />
+  <meta property="og:updated_time" content="2021-05-19T12:08:55+09:00" />
+  <meta property="article:section" content="未分類"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="【信頼禁物】Venusの利用リスクをまとめます。"/>
+  <meta itemprop="headline" content="【信頼禁物】Venusの利用リスクをまとめます。"/>
+  <meta itemprop="description" content="イケハヤです。
+
+
+
+BSCにおける最大のレンディングサービス「Venus」のリスクを解説します。
+
+
+
+これ割とみなさん思考停止でトラストしている気がしますが、けっこう危ないです……。
+
+
+
+
+
+
+
+Venusは仕様変更が激しい。
+
+
+
+なぜVenusに気をつけるべきかというと、かなり仕様変更が激しいんです。
+
+
+
+割と重大な変更を、しれ〜っと実装してきやがるので、利用しているならProposal（Vote）はしっかり読み込まないとダメですね。これもまた説明が適当なのでわかりにくいですが……。
+
+
+
+
+
+
+
+なお、運営・関係者がXVSを大量に握っている（と思われる）関係で、このVoteは実質"/>
+  <meta itemprop="image" content="https://www.ikedahayato.com/wp-content/uploads/2021/05/dc8b62d8e37807c0e529753454030f63.png"/>
+  <meta itemprop="datePublished" content="2021-05-17"/>
+  <meta itemprop="dateModified" content="2021-05-19T12:08:55+09:00" />
+  <meta itemprop="author" content="ihayato"/>
+  <!--<meta itemprop="publisher" content="イケハヤ大学【ブログ版】"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="【信頼禁物】Venusの利用リスクをまとめます。"/>
+  <meta name="twitter:url" content="https://www.ikedahayato.com/venus-risk/"/>
+  <meta name="twitter:description" content="イケハヤです。
+
+
+
+BSCにおける最大のレンディングサービス「Venus」のリスクを解説します。
+
+
+
+これ割とみなさん思考停止でトラストしている気がしますが、けっこう危ないです……。
+
+
+
+
+
+
+
+Venusは仕様変更が激しい。
+
+
+
+なぜVenusに気をつけるべきかというと、かなり仕様変更が激しいんです。
+
+
+
+割と重大な変更を、しれ〜っと実装してきやがるので、利用しているならProposal（Vote）はしっかり読み込まないとダメですね。これもまた説明が適当なのでわかりにくいですが……。
+
+
+
+
+
+
+
+なお、運営・関係者がXVSを大量に握っている（と思われる）関係で、このVoteは実質"/>
+  <meta name="twitter:image" content="https://www.ikedahayato.com/wp-content/uploads/2021/05/dc8b62d8e37807c0e529753454030f63.png"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:site" content="@ihayato"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph and Twitter Card Tags 2.2.7.2 -->
+	
+	
+<!--カエレバCSS-->
+<link href="https://www.ikedahayato.com/wp-content/themes/jin/css/kaereba.css" rel="stylesheet" />
+<!--アプリーチCSS-->
+<link href="https://www.ikedahayato.com/wp-content/themes/jin/css/appreach.css" rel="stylesheet" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-47479311-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-47479311-1');
+</script>
+<script type="text/javascript" src="//aml.valuecommerce.com/vcdal.js" async=""></script>
+</head>
+<body class="post-template-default single single-post postid-65156 single-format-standard" id="nofont-style">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGZDN33"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	
+	
+<div id="wrapper">
+
+		
+	<div id="scroll-content" class="animate">
+	
+		<!--ヘッダー-->
+
+								
+<div id="header-box" class="tn_on header-box animate">
+	<div id="header" class="header-type2 header animate">
+		
+		<div id="site-info" class="ef">
+							<span class="tn-logo-size"><a href='https://www.ikedahayato.com/' title='イケハヤ大学【ブログ版】' rel='home'><img src='https://www.ikedahayato.com/wp-content/uploads/2020/02/b60f31d1bdd30807e1a2f794281b6d34.png' alt=''></a></span>
+					</div>
+
+	
+		
+	</div>
+	
+		
+</div>
+
+		
+
+<!-- サイトタイトル下 -->
+              		
+		<!--ヘッダー-->
+
+		<div class="clearfix"></div>
+
+			
+														
+			
+	<div id="contents">
+
+		<!--メインコンテンツ-->
+		<main id="onecolumn760" class="main-contents article_style1 animate" itemprop="mainContentOfPage">
+			
+						
+			<section class="cps-post-box hentry">
+														<article class="cps-post">
+						<header class="cps-post-header">
+															<span class="cps-post-cat category-%e6%9c%aa%e5%88%86%e9%a1%9e" itemprop="keywords"><a href="https://www.ikedahayato.com/category/%e6%9c%aa%e5%88%86%e9%a1%9e/" style="background-color:!important;">未分類</a></span>
+														<h1 class="cps-post-title entry-title" itemprop="headline">【信頼禁物】Venusの利用リスクをまとめます。</h1>
+							<div class="cps-post-meta vcard">
+								<span class="writer fn" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">ihayato</span></span>
+																<span class="cps-post-date-box">
+											<span class="cps-post-date"><i class="jic jin-ifont-watch" aria-hidden="true"></i>&nbsp;<time class="entry-date date published" datetime="2021-05-17T12:03:26+09:00">2021年5月17日</time></span>
+	<span class="timeslash"> /</span>
+	<time class="entry-date date updated" datetime="2021-05-19T12:08:55+09:00"><span class="cps-post-date"><i class="jic jin-ifont-reload" aria-hidden="true"></i>&nbsp;2021年5月19日</span></time>
+									</span>
+															</div>
+						</header>
+						
+						<!-- 記事タイトル下 -->
+												    						      						    												
+																																					
+						<div class="cps-post-main-box">
+							<div class="cps-post-main    h2-style04 h3-style03 h4-style01 entry-content xl-size m-size-sp" itemprop="articleBody">
+								
+								<div class="clearfix"></div>
+	
+								
+<p>イケハヤです。</p>
+
+
+
+<p>BSCにおける最大のレンディングサービス「<a href="https://venus.io/">Venus</a>」のリスクを解説します。</p>
+
+
+
+<p>これ割とみなさん思考停止でトラストしている気がしますが、けっこう危ないです……。</p>
+
+
+
+<p></p>
+
+
+
+<h3>Venusは仕様変更が激しい。</h3>
+
+
+
+<p>なぜVenusに気をつけるべきかというと、かなり仕様変更が激しいんです。</p>
+
+
+
+<p>割と重大な変更を、しれ〜っと実装してきやがるので、<span class="marker">利用しているならProposal（Vote）はしっかり読み込まないとダメですね</span>。これもまた説明が適当なのでわかりにくいですが……。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.ikedahayato.com/wp-content/uploads/2021/05/ffbfa382ae7ec834bbbc932983648c71-1024x678.png" alt="" class="wp-image-65157" srcset="https://www.ikedahayato.com/wp-content/uploads/2021/05/ffbfa382ae7ec834bbbc932983648c71-1024x678.png 1024w, https://www.ikedahayato.com/wp-content/uploads/2021/05/ffbfa382ae7ec834bbbc932983648c71-300x199.png 300w, https://www.ikedahayato.com/wp-content/uploads/2021/05/ffbfa382ae7ec834bbbc932983648c71-768x509.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>なお、<span class="marker">運営・関係者がXVSを大量に握っている（と思われる）関係で、このVoteは実質的に形骸化しています</span>。まぁ、それは他のプロジェクトにも同じことがいえたりもしますが……。</p>
+
+
+
+<p>関連するプロジェクトへの仕様変更の周知も十分ではないようで、AutoFarmはVenusの仕様変更の影響を受けて、顧客資産を失う事故が発生しました。</p>
+
+
+
+<p><strong>関連記事：</strong><a href="https://medium.com/autofarm-network/21-april-2021-venus-vaults-post-mortem-1518ae7399c6">21 April 2021 — Venus Vaults Post-Mortem</a></p>
+
+
+
+<p>これはAutoFarm側の落ち度でもありますが、Venus側からのアナウンス、もうちょいなんとかならんのか？とは思いますね……。</p>
+
+
+
+<p></p>
+
+
+
+<h3>トークン設計と配布が雑。</h3>
+
+
+
+<p>Venusを運営しているのはSwipe社なのですが、ここはなんというか……トークン設計が雑なんですよね。</p>
+
+
+
+<p>たとえばこれ。Swipeの創業者が先日2億ドル分の保有トークンを焼却しましたが……。</p>
+
+
+
+<p>いや、お前、そもそも創業者の持ち分が多すぎないか!?とｗ 200億円以上ですからね……。</p>
+
+
+
+<figure class="wp-block-image"><img src="blob:https://www.ikedahayato.com/2530fed2-14f8-4dde-b5f3-03745c60e0bd" alt=""/></figure>
+
+
+
+<p></p>
+
+
+
+<p>Venusについても、突如XVSに加えて、「VRT」というトークンの追加を発表しました。</p>
+
+
+
+<p>なお、VRT追加についてのVoteは実施されていませんｗ Voteの意味よ！！</p>
+
+
+
+<p><strong>関連記事：</strong><a href="https://venus.io/VRTWhitepaper.pdf"></a><a href="https://venus.io/VRTWhitepaper.pdf">https://venus.io/VRTWhitepaper.pdf</a></p>
+
+
+
+<p>VRTはXVSホルダーにエアドロップされ、Venusエコシステムのインセンティブに使われるとのことですが……錬金術感がありますよねぇ……。</p>
+
+
+
+<p>XVSの大口にとってあまりにも有利な気がしてなりません。まぁ、ぼくは投資予定はないのでいいんですが……。</p>
+
+
+
+<p></p>
+
+
+
+<h3>追加される担保資産がリスキー。</h3>
+
+
+
+<p>これがもっとも大きなリスクで、Venusには割と微妙な銘柄が、担保資産としてリストされています。</p>
+
+
+
+<p>なぜこれがリスクかというと、謎のトークンを担保に、自分が預けた大事なBTCBとかが「借り逃げ」される恐れがあるんですよね……。</p>
+
+
+
+<p>実際にVenusはそんな事故もやらかしています。CAN事件は忘れないぞ……。これ、顛末次第ではマジでサービスが崩壊していたくらいの事故です。</p>
+
+
+
+<p><strong>関連記事：</strong><a href="https://ninahaus.com/2021/01/14/venus_event_2021jan/">【DeFi】VenusにおけるCAN事件について～2021年1月14日、その時何が起こったか～</a></p>
+
+
+
+<p>CAN事件以降、借り入れ上限ができたりVoteが実装されたり、さすがに安全性は高まりましたが、それでもなお、いきなりDOGEを追加するあたりは信用できません……ｗ</p>
+
+
+
+<p>なお、VRTについても、流動性が十分になった段階で担保資産に入るようですね。</p>
+
+
+
+<p><span class="marker">自分たちが空気から生み出したVRTを担保に、ユーザーのBTCBとかステーブルを借りられる……</span>というのは、ぼくは好きではないです。</p>
+
+
+
+<p>Venusのイーサリアム版に当たる「Compound」は、ここらへんの担保追加は非常に慎重です。なんと、未だにUSDTは担保に使えないレベルです。</p>
+
+
+
+<p>それでもCompoundはしっかり使われているんで、Venus、無駄に攻めてリスクを上げる必要はまったくないと思うんですけどねぇ……。Compoundみたいな正統派レンディングがほしいです、マジで。</p>
+
+
+
+<p></p>
+
+
+
+<h3>とはいえ、逆に安全といえば安全。</h3>
+
+
+
+<p>「じゃあVenusは絶対使わないほうがいいの？？？」</p>
+
+
+
+<p>と思う方もいるかもですが、あくまでこれは好みの問題もあるので、あとはご自身の判断に任せます。ぼくもたまに使ってますし。</p>
+
+
+
+<p>ある意味でVenusは安全といえば安全で、<span class="marker">ここは運営がかなりの資金を持っているんですよね</span>。</p>
+
+
+
+<p>それが明らかになったのは「CAN事件」で、事故の最中、なんとVenus運営は2000BTC以上の資金を、迅速にプロトコルに供給しました。</p>
+
+
+
+<p>「始まったばかりのプロジェクトのくせに、どっからそんなカネが!?」と思いましたが、<span class="marker">Venus（Swipe）はBinanceの買収済み子会社</span>なので、Binance本家の資金が流れてきたのかもしれませんね。</p>
+
+
+
+<p>確実なことはいえませんが、Venus本体のやらかしでなんらかの事故があった際は、Venus/Binance側からの補償もあるかもしれません。その意味では、安全といえば安全です。</p>
+
+
+
+<p></p>
+
+
+
+<h3>Venusを使うなら。</h3>
+
+
+
+<p>これはVenusに限らない話ですが、Venusを使う際は以下の点に注意しましょう。</p>
+
+
+
+<ul><li>重要な仕様変更は注視する（Annoucement、Voteはすべてチェック）</li><li>自分が預けたコインが、DOGEやSXP、VRTのようなトークンを担保に借りられていくことを理解する</li><li>Venusを使った関連サービスを使うときも要注意（BUNNYの単体プール、ACoconutのvBTC+など）</li></ul>
+
+
+
+<p>レンディングサービスはCompound並に保守的に運用されてほしいんですけどね……。</p>
+
+
+
+<p>貸し手に回るという観点なら、Alpacaのレンディングのほうが個人的に好きですね。こちらも利回りは十分にいいです。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.ikedahayato.com/wp-content/uploads/2021/05/01f0d6670078e98a2d2dbf6d46c4172b.png" alt="" class="wp-image-65159" srcset="https://www.ikedahayato.com/wp-content/uploads/2021/05/01f0d6670078e98a2d2dbf6d46c4172b.png 874w, https://www.ikedahayato.com/wp-content/uploads/2021/05/01f0d6670078e98a2d2dbf6d46c4172b-300x178.png 300w, https://www.ikedahayato.com/wp-content/uploads/2021/05/01f0d6670078e98a2d2dbf6d46c4172b-768x455.png 768w" sizes="(max-width: 874px) 100vw, 874px" /></figure>
+
+
+
+<p><span class="marker">ぼく自身は、単品のBNB, BUSDは、Alpacaのレンディングを使った</span><a href="https://www.growing.fi/farm"><span class="marker">Growing.fi</span></a><span class="marker">のVaultに入れてます</span>。表記のAPYはなぜか少なめに出ているので、実際に預けて確認してみてください〜。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.ikedahayato.com/wp-content/uploads/2021/05/fd5dfbe8951c68ddcef4d361c729c5b0-1024x362.png" alt="" class="wp-image-65160" srcset="https://www.ikedahayato.com/wp-content/uploads/2021/05/fd5dfbe8951c68ddcef4d361c729c5b0-1024x362.png 1024w, https://www.ikedahayato.com/wp-content/uploads/2021/05/fd5dfbe8951c68ddcef4d361c729c5b0-300x106.png 300w, https://www.ikedahayato.com/wp-content/uploads/2021/05/fd5dfbe8951c68ddcef4d361c729c5b0-768x271.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+								
+								<div class="clearfix"></div>
+<div class="adarea-box">
+	</div>
+								
+								<!-- 記事下SNS上 -->	
+																    								      								    																	
+																	<div class="share sns-design-type01">
+	<div class="sns">
+		<ol>
+			<!--ツイートボタン-->
+							<li class="twitter"><a href="http://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ikedahayato.com%2Fvenus-risk%2F&text=%E3%80%90%E4%BF%A1%E9%A0%BC%E7%A6%81%E7%89%A9%E3%80%91Venus%E3%81%AE%E5%88%A9%E7%94%A8%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%99%E3%80%82 - イケハヤ大学【ブログ版】&via=&tw_p=tweetbutton"><i class="jic jin-ifont-twitter"></i></a>
+				</li>
+						<!--Facebookボタン-->
+							<li class="facebook">
+				<a href="http://www.facebook.com/sharer.php?src=bm&u=https%3A%2F%2Fwww.ikedahayato.com%2Fvenus-risk%2F&t=%E3%80%90%E4%BF%A1%E9%A0%BC%E7%A6%81%E7%89%A9%E3%80%91Venus%E3%81%AE%E5%88%A9%E7%94%A8%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%99%E3%80%82 - イケハヤ大学【ブログ版】" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"><i class="jic jin-ifont-facebook-t" aria-hidden="true"></i></a>
+				</li>
+						<!--はてブボタン-->
+							<li class="hatebu">
+				<a href="http://b.hatena.ne.jp/add?mode=confirm&url=https%3A%2F%2Fwww.ikedahayato.com%2Fvenus-risk%2F" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=510');return false;" ><i class="font-hatena"></i></a>
+				</li>
+						<!--Poketボタン-->
+							<li class="pocket">
+				<a href="http://getpocket.com/edit?url=https%3A%2F%2Fwww.ikedahayato.com%2Fvenus-risk%2F&title=%E3%80%90%E4%BF%A1%E9%A0%BC%E7%A6%81%E7%89%A9%E3%80%91Venus%E3%81%AE%E5%88%A9%E7%94%A8%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%99%E3%80%82 - イケハヤ大学【ブログ版】"><i class="jic jin-ifont-pocket" aria-hidden="true"></i></a>
+				</li>
+							<li class="line">
+				<a href="http://line.me/R/msg/text/?https%3A%2F%2Fwww.ikedahayato.com%2Fvenus-risk%2F"><i class="jic jin-ifont-line" aria-hidden="true"></i></a>
+				</li>
+		</ol>
+	</div>
+</div>
+
+																
+								<!-- 記事下SNS下 -->
+																    								      								    																
+								
+
+									<section class="cta-content">
+					<span class="info-title">（プレゼント付き）自力で稼ぐ力を付ける！1年間の無料メール講座。</span>
+					<div class="cta-text">
+					<p>イケハヤです。</p>
+<p>「<strong>収入に不満がある</strong>」</p>
+<p>「<strong>不労所得がほしい</strong>」</p>
+<p>「<strong>自力で稼げるようになりたい</strong>」</p>
+<p>そんなあなたのために！</p>
+<p><strong>「ゼロから自力で稼ぐ力を付ける」</strong>をテーマにした<strong>無料メール講座</strong>を作りました。</p>
+<p>一応注意すると、甘い話は書いてありませんよ。けっこう厳しめに教えてます。</p>
+<p>優しく教えても、なかなか変わりませんからね……。</p>
+<p><strong>途中で嫌になって解約する人もけっこういますw</strong></p>
+<p>&nbsp;</p>
+<p>無料でいつでも解約できるのでご安心を！</p>
+<p>このメール講座をしっかり受講し、提案される行動を取ってもらえれば……。</p>
+<p><strong>1年間で月2〜3万円稼げるようになるはずです</strong>。</p>
+<p>人によっては、もっといけるとも思います。</p>
+<p>本メール講座では、以下のような内容を収録しています。</p>
+<ul>
+<li><strong>有料販売している教材のプレゼント</strong></li>
+<li>稼ぐためのマインドセット</li>
+<li><span style="font-size: 1em; letter-spacing: 0.05em;">情報商材詐欺にあわないための知識</span></li>
+<li>初心者がまずやるべきこと</li>
+<li>ツイッターの使い方（<strong>課題達成者には無料コンサル1回</strong>）</li>
+<li>ブログアフィリエイトの始め方</li>
+<li>コンテンツ販売で稼ぐノウハウ</li>
+<li>YouTubeで稼ぐ方法</li>
+<li>最新おすすめ副業徹底解説</li>
+<li>副業を始めるときのベストな考え方</li>
+<li>資産運用の基礎的な知識</li>
+<li>絶対にやっておくべき節約術</li>
+</ul>
+<p>&nbsp;</p>
+<p>などなど……。</p>
+<p>伝えておくべき内容が出てきたときは、号外で最新情報も提供します。</p>
+<p>繰り返しですが、すべて無料です。</p>
+<p>noteなどで有料販売している教材をちょくちょくプレゼントしてるので、ぶっちゃけかなりお得です……。</p>
+<p>最初のメール講座にもプレゼント教材（ブログ、SNS、YouTube「最初の1円」を稼ぐためのルートガイド）入れてあるので、ぜひご活用ください〜。</p>
+<p>&nbsp;</p>
+<div class="jin-flexbox">
+<div class="jin-shortcode-button jsb-visual-shiny jsb-hover-down"><a href="https://mag.ikehaya.com/p/r/6ogF6Wg6" target="_blank" style="background: linear-gradient(107.61deg, #54dcef 7.99%, #0794E8 91.12%); border-radius:50px;">メール講座を受講する</a></div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+					</div>
+				</section>
+										</div>
+						</div>
+					</article>
+								    		</section>
+			
+			
+												
+													
+						
+		</main>
+		
+	</div>
+	<div class="clearfix"></div>
+	<!--フッター-->
+			<div id="breadcrumb" class="footer_type1"><ul itemprop="breadcrumb"><div class="page-top-footer"><a class="totop"><i class="jic jin-ifont-arrow-top"></i></a></div><li class="bcHome" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://www.ikedahayato.com/" itemprop="url"><i class="jic jin-ifont-home space-i" aria-hidden="true"></i><span itemprop="name">HOME</span></a></li><li><i class="jic jin-ifont-arrow space" aria-hidden="true"></i></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://www.ikedahayato.com/category/%e6%9c%aa%e5%88%86%e9%a1%9e/" itemprop="url"><span itemprop="title">未分類</span></a></li><li><i class="jic jin-ifont-arrow space" aria-hidden="true"></i></li><li>【信頼禁物】Venusの利用リスクをまとめます。</li></ul></div>			<footer role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+	
+		<!--ここからフッターウィジェット-->
+		
+								<div id="footer-widget-area" class="footer_style1 footer_type1">
+				<div id="footer-widget-box">
+					<div id="footer-widget-left">
+						<div id="custom_html-10" class="widget_text footer-widget widget_custom_html"><div class="textwidget custom-html-widget"><!-- フッターリンク -->
+<div class="footer_link">
+    <div class="footer_link_in clearfix">
+        <div class="footer_link_box">
+<p class="title">イケハヤって？</p>
+<p class="link"><a href="http://www.ikedahayato.com/index.php/profile">プロフィール</a></p><p class="link"><a href="https://www.youtube.com/channel/UCKSSZYcoRHkrF6lkarKYZvg">YouTube</a></p>
+</div>
+<div class="footer_link_box">
+            <p class="title">縁のあるサイト</p>
+            <p class="link"><a href="http://bigissue-online.jp/" target="_blank" rel="noopener noreferrer">ビッグイシュー・オンライン</a></p>
+        </div> 
+        <div class="footer_link_box">
+            <p class="title">手がけた本</p>
+            <p class="link"><a href="http://amzn.to/1WsPgHY" target="_blank" rel="noopener noreferrer">Amazon著者ページ</a></p>
+
+
+        </div>
+        <div class="footer_link_box">
+            <a class="footer_link_box_sns" href="http://twitter.com/IHayato" target="_blank" rel="noopener noreferrer">
+                <div class="tw_img">
+                    <img src="https://pbs.twimg.com/profile_images/1242598563890098176/DL3LOz2a_400x400.jpg">
+                </div>
+                <div class="tw_text">
+                    <p class="name">イケダハヤト</p>
+                    <p class="id">@IHayato</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+</div></div>					</div>
+					<div id="footer-widget-center-box">
+						<div id="footer-widget-center1">
+													</div>
+						<div id="footer-widget-center2">
+													</div>
+					</div>
+					<div id="footer-widget-right">
+											</div>
+				</div>
+			</div>
+						<div class="footersen"></div>
+				
+		
+		<div class="clearfix"></div>
+		
+		<!--ここまでフッターウィジェット-->
+	
+					<div id="footer-box">
+				<div class="footer-inner">
+					<span id="privacy"><a href="http://www.ikedahayato.com/privacy-policy/">プライバシーポリシー</a></span>
+					<span id="law"><a href="http://www.ikedahayato.com/profile">自己紹介</a></span>
+					<span id="copyright" itemprop="copyrightHolder"><i class="jic jin-ifont-copyright" aria-hidden="true"></i>2011–2021&nbsp;&nbsp;イケハヤ大学【ブログ版】</span>
+				</div>
+			</div>
+				<div class="clearfix"></div>
+	</footer>
+	
+	
+	
+		
+	</div><!--scroll-content-->
+
+			
+</div><!--wrapper-->
+
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?ver=5.2.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpASPNG = {"iframeUrl":"https:\/\/www.ikedahayato.com\/?asp_action=show_pp","prefetch":"0","ckey":"87d92391e34d2c99aba668c29925fa68"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ikedahayato.com/wp-content/plugins/stripe-payments/public/assets/js/stripe-handler-ng.js?ver=2.0.33'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tocplus = {"visibility_show":"\u8868\u793a","visibility_hide":"\u975e\u8868\u793a","width":"Auto"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ikedahayato.com/wp-content/plugins/table-of-contents-plus/front.min.js?ver=1509'></script>
+<script type='text/javascript' src='https://www.ikedahayato.com/wp-content/themes/jin/js/common.js?ver=5.2.11'></script>
+<script type='text/javascript' src='https://www.ikedahayato.com/wp-content/themes/jin/js/jin_h_icons.js?ver=5.2.11'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.7/js/swiper.min.js?ver=5.2.11'></script>
+<script type='text/javascript' src='https://use.fontawesome.com/releases/v5.6.3/js/all.js?ver=5.2.11'></script>
+<script type='text/javascript' src='https://www.ikedahayato.com/wp-includes/js/wp-embed.min.js?ver=5.2.11'></script>
+<a style="display:none;" href="http://miniorange.com/cyber-security">Secured By miniOrange</a>
+<script>
+	var mySwiper = new Swiper ('.swiper-container', {
+		// Optional parameters
+		loop: true,
+		slidesPerView: 5,
+		spaceBetween: 15,
+		autoplay: {
+			delay: 2700,
+		},
+		// If we need pagination
+		pagination: {
+			el: '.swiper-pagination',
+		},
+
+		// Navigation arrows
+		navigation: {
+			nextEl: '.swiper-button-next',
+			prevEl: '.swiper-button-prev',
+		},
+
+		// And if we need scrollbar
+		scrollbar: {
+			el: '.swiper-scrollbar',
+		},
+		breakpoints: {
+              1024: {
+				slidesPerView: 4,
+				spaceBetween: 15,
+			},
+              767: {
+				slidesPerView: 2,
+				spaceBetween: 10,
+				centeredSlides : true,
+				autoplay: {
+					delay: 4200,
+				},
+			}
+        }
+	});
+	
+	var mySwiper2 = new Swiper ('.swiper-container2', {
+	// Optional parameters
+		loop: true,
+		slidesPerView: 3,
+		spaceBetween: 17,
+		centeredSlides : true,
+		autoplay: {
+			delay: 4000,
+		},
+
+		// If we need pagination
+		pagination: {
+			el: '.swiper-pagination',
+		},
+
+		// Navigation arrows
+		navigation: {
+			nextEl: '.swiper-button-next',
+			prevEl: '.swiper-button-prev',
+		},
+
+		// And if we need scrollbar
+		scrollbar: {
+			el: '.swiper-scrollbar',
+		},
+
+		breakpoints: {
+			767: {
+				slidesPerView: 2,
+				spaceBetween: 10,
+				centeredSlides : true,
+				autoplay: {
+					delay: 4200,
+				},
+			}
+		}
+	});
+
+</script>
+<div id="page-top">
+	<a class="totop"><i class="jic jin-ifont-arrow-top"></i></a>
+</div>
+
+</body>
+</html>
+<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
